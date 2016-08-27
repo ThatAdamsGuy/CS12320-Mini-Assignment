@@ -1,0 +1,8 @@
+7
+Aberystwyth;TOWN;20000
+Bow Street;VILLAGE;2000
+Borth;VILLAGE;1500
+Llanbadarn;VILLAGE;3000
+Penparcau;VILLAGE;3100
+Tal-y-bont;VILLAGE;700
+Rhydypennau;HAMLET;100
